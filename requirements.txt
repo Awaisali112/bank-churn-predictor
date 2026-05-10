@@ -1,0 +1,12 @@
+pandas>=3.0.2
+numpy>=2.4.4
+scikit-learn>=1.8.0
+xgboost>=3.2.0
+matplotlib>=3.10.9
+seaborn>=0.13.2
+streamlit>=1.35.0
+fastapi>=0.111.0
+uvicorn[standard]>=0.29.0
+pydantic>=2.7.0
+joblib>=1.4.0
+ipykernel>=7.2.0
